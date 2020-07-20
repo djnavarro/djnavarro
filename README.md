@@ -1,4 +1,4 @@
-![](https://djnavarro.github.io/hugo-slum/header/banner.png)
+![](https://djnavarro.github.io/hugo-calade/header/banner.png)
 
 <!--
 **djnavarro/djnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
