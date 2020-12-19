@@ -1,6 +1,6 @@
 
-![](https://art.djnavarro.net/gallery/heart-samples/preview/ff_15_1_6_1.jpg | width = 200)
-![](https://art.djnavarro.net/gallery/heartbleed/preview/turmite_52.jpg | width = 200)
+<img src = "https://art.djnavarro.net/gallery/heart-samples/preview/ff_15_1_6_1.jpg" width = 200>
+<img src = "https://art.djnavarro.net/gallery/heartbleed/preview/turmite_52.jpg" width = 200>
 
 <!--
 ![](https://djnavarro.github.io/hugo-calade/header/banner.png)
