@@ -1,19 +1,18 @@
+<style>
+    .crop {
+        width: 800px;
+        height: 400px;
+        overflow: hidden;
+    }
 
-<img src = "https://art.djnavarro.net/gallery/heart-samples/preview/ff_15_1_6_1.jpg" width = 200>
-<img src = "https://art.djnavarro.net/gallery/heartbleed/preview/turmite_52.jpg" width = 200>
+    .crop img {
+        width: 800px;
+        height: 800px;
+        margin: 0 0 0 0;
+    }
+</style>
 
-<!--
-![](https://djnavarro.github.io/hugo-calade/header/banner.png)
-**djnavarro/djnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="crop">
+  <img src="https://art.djnavarro.net/gallery/heartbleed/preview/turmite_52.jpg">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
