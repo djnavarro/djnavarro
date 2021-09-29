@@ -9,7 +9,7 @@
 🐦 **Twitter:** [@djnavarro](https://twitter.com/djnavarro)
  
 
-<img align="right" src="https://github.com/djnavarro/djnavarro/blob/main/danielle.jpg" width="300">
+<img align="right" src="https://raw.githubusercontent.com/djnavarro/djnavarro/master/danielle.jpg" width="300">
 
 Hi there! 
 
