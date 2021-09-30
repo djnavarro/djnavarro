@@ -1,5 +1,5 @@
 
-Danielle Navarro is a computational cognitive scientist and Associate Professor at the University of New South Wales She uses a mix of experimental methods and computational modelling techniques to explore how the human mind works. Danielle is a cofounder of [R-Ladies Sydney](https://rladiessydney.org), and holds editorial roles at [Science](https://www.sciencemag.org/) and [Psychological Review](https://www.apa.org/pubs/journals/rev/). She is prone to describing herself in the third person in biographies, but is willing to admit that it’s super weird.
+I'm a computational cognitive scientist and Associate Professor at the University of New South Wales, using a mix of experimental methods and computational modelling techniques to explore how the human mind works. Among other things I'm a cofounder of [R-Ladies Sydney](https://rladiessydney.org), hold editorial roles at [Science](https://www.sciencemag.org/) and [Psychological Review](https://www.apa.org/pubs/journals/rev/), and I make generative art with R. My primary websites are these:
 
 - Professional website: [djnavarro.net](https://djnavarro.net)
 - Data science blog: [blog.djnavarro.net](https://blog.djnavarro.net)
