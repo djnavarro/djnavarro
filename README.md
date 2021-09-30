@@ -5,5 +5,6 @@ Danielle Navarro is a computational cognitive scientist and Associate Professor 
 - Data science blog: [blog.djnavarro.net](https://blog.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
 - Generative art: [art.djnavarro.net](https://art.djnavarro.net)
+- Personal essays: [essays.djnavarro.net](https://essays.djnavarro.net)
 
 
