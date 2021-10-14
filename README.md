@@ -5,5 +5,5 @@ I'm a data scientist and cognitive scientist working as an Associate Professor a
 - Data science blog: [blog.djnavarro.net](https://blog.djnavarro.net)
 - Generative art: [art.djnavarro.net](https://art.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
-
+- Data science slides/videos: [slides.djnavarro.net](https://slides.djnavarro.net)
 
