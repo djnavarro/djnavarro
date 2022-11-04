@@ -9,3 +9,7 @@ I'm a data scientist, statistician, R developer, and behavioural scientist, curr
 - Generative art: [art.djnavarro.net](https://art.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
 
+<!-- mastodon verification -->
+<a rel="me" href="https://fosstodon.org/@djnavarro"></a>
+<a rel="me" href="https://genart.social/@djnavarro"></a>
+
