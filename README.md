@@ -1,7 +1,7 @@
 
 Hi there! 
 
-I'm a data scientist, statistician, R developer, and behavioural scientist, currently working in developer relations for [Voltron Data](https://voltrondata.com/). I'm also a recovering academic, most recently from [UNSW Sydney](https://unsw.edu.au). Oh, and I make generative art with R. 
+I'm a data scientist, statistician, R developer, generative artist, and recovering academic. 
 
 - Professional website: [djnavarro.net](https://djnavarro.net)
 - Data science blog: [blog.djnavarro.net](https://blog.djnavarro.net)
