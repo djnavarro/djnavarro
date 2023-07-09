@@ -8,4 +8,3 @@ I'm a data scientist, statistician, R developer, generative artist, and recoveri
 - Data science slides/videos: [slides.djnavarro.net](https://slides.djnavarro.net)
 - Generative art: [art.djnavarro.net](https://art.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
-- The ggplot2 book: [ggplot2-book.org](https://ggplot2-book.org/)
